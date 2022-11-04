@@ -5,11 +5,11 @@ the model very well with 94% accuracy.
 
 
 Libraries USED:
--- nltk
--- re
--- numpy
--- pandas
--- Sklearn
+- nltk
+- re
+- numpy
+- pandas
+- Sklearn
 
 
 This Project covers:
