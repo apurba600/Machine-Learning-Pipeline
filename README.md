@@ -1,6 +1,7 @@
 # Machine-Learning-Pipeline
 
-Automates the entire ML process with a few lines of code
+Automates the entire ML process with a few lines of code. Trained a Random Forest Model to classify messages to its category. Performed
+the model very well with 94% accuracy. 
 
 
 Libraries USED:
